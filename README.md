@@ -17,3 +17,6 @@ from pydub import AudioSegment
 import torch
 from moviepy.editor import *
 import pyttsx3
+
+
+Авторы: Воронин Д.С. mail: dmitriy06-06@mail.ru
